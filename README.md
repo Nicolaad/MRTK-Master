@@ -1,4 +1,4 @@
-# MRTK-Master - Mixed relity board game prototype
+# MRTK-Master - Mixed reality board game prototype
  
 
 ## What is this
