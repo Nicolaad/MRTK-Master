@@ -91,6 +91,14 @@
         "com.unity.xr.interaction.toolkit": "2.0.3"
       }
     },
+    "com.microsoft.mrtk.windowsspeech": {
+      "version": "file:MixedReality/com.microsoft.mrtk.windowsspeech-3.0.0-pre.12.tgz",
+      "depth": 0,
+      "source": "local-tarball",
+      "dependencies": {
+        "com.microsoft.mrtk.core": "3.0.0-pre.12"
+      }
+    },
     "com.microsoft.spatialaudio.spatializer.unity": {
       "version": "file:MixedReality/com.microsoft.spatialaudio.spatializer.unity-2.0.37.tgz",
       "depth": 0,
