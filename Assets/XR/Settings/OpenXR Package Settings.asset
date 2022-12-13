@@ -204,7 +204,6 @@ MonoBehaviour:
   m_Name: Standalone
   m_EditorClassIdentifier: 
   features:
-  - {fileID: -3442806686272408862}
   - {fileID: 6793281288298111026}
   - {fileID: -6254215254292599626}
   - {fileID: 815290940445597700}
@@ -217,9 +216,10 @@ MonoBehaviour:
   - {fileID: -1538526321234000627}
   - {fileID: 293633884526294913}
   - {fileID: -4069604337969539251}
-  - {fileID: -3019038467898552703}
   - {fileID: -6652466281683711525}
   - {fileID: 6352199933305344201}
+  - {fileID: -3019038467898552703}
+  - {fileID: -3442806686272408862}
   m_renderMode: 1
   m_depthSubmissionMode: 1
 --- !u!114 &-4069604337969539251
@@ -557,7 +557,7 @@ MonoBehaviour:
   required: 1
   disableFirstPersonObserver: 0
   enablePoseUpdateOnBeforeRender: 0
-  validationRuleTarget: 0
+  validationRuleTarget: 1
 --- !u!114 &5803492913877850537
 MonoBehaviour:
   m_ObjectHideFlags: 0
